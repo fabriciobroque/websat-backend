@@ -1,0 +1,13 @@
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\entity\Task.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\TaskManagerApplication.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\enums\TaskStatus.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\exception\ResourceNotFoundException.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\exception\ErrorResponse.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\dto\TaskResponseDTO.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\repository\TaskRepository.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\service\TaskService.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\dto\UpdateStatusDTO.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\exception\ValidationException.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\controller\TaskController.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\dto\TaskRequestDTO.java
+C:\Users\Micro\Documents\web-sat\backend\src\main\java\com\taskmanager\exception\GlobalExceptionHandler.java
